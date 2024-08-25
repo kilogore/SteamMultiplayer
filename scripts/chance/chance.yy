@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"chance",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"chance",
+  "parent":{
+    "name":"Math",
+    "path":"folders/Scripts/GM_Shorcuts/Math.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

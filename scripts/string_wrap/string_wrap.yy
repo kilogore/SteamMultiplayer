@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"string_wrap",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"string_wrap",
+  "parent":{
+    "name":"GM_Shorcuts",
+    "path":"folders/Scripts/GM_Shorcuts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

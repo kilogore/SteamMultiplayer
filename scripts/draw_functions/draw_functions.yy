@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"draw_functions",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_functions",
+  "parent":{
+    "name":"GM_Shorcuts",
+    "path":"folders/Scripts/GM_Shorcuts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
